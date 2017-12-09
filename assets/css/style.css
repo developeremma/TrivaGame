@@ -1,0 +1,43 @@
+body {
+  background-image: url(../images/space.jpg);
+  color: #FFC300;
+}
+
+p {
+  font-size: 40px;
+  text-align: center;
+}
+
+.gameBorder {
+  background-color: #205fac;
+}
+
+.gameHead {
+  font-size: 70px;
+  font-family: 'Exo 2', serif;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.done {
+  font-size: 50px;
+}
+
+#viewableEnd {
+  text-align: center;
+}
+
+#start-button, #done-button {
+  font-size: 60px;
+  background-color: #FFC300;
+  color: #ffffff; 
+}
+
+#timer {
+  font-size: 60px;
+  text-align: center;
+  color: red;
+}
